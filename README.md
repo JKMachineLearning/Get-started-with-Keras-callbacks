@@ -2,7 +2,11 @@
 Get started with Keras callbacks
 
 ## Summary
-1. Model Checkpoint
-2. Tensorboard
-3. LearningRate Sheduler
-4. Early Stop
+1. ModelCheckpoint
+2. Tensorbaord
+3. LearningRateScheduler
+4. EarlyStopping
+5. Four main callbacks
+
+## Dataset
+`sh download.sh`
